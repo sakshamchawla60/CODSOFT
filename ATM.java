@@ -18,7 +18,7 @@ public class ATM {
                 while (!exit) {
                     System.out.println("Select the option...");
                     System.out.println("1. Check the Balance");
-                    System.out.println("2.withdrawal Cash");
+                    System.out.println("2. Withdrawal Cash");
                     System.out.println("3. Deposit Cash");
                     System.out.println("4. Exit");
                     int choice = sc.nextInt();
